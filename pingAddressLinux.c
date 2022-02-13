@@ -1,7 +1,6 @@
 /*
-Matthew
 this is a program that pings provided address in c 
-https://github.com/coding-fans/linux-network-programming/blob/master/src/c/icmp/ping/ping.c
+inspored by https://github.com/coding-fans/linux-network-programming/blob/master/src/c/icmp/ping/ping.c
 this program uses a argument for address input and needs sudo permissions.
 example:sudo ./ping 8.8.8.8
 */
